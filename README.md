@@ -1,5 +1,5 @@
 # Menu-op
-Menu de opções em C
+Menu de opções usando procedimentos e funções em C.
 
 
 ===== MENU INICIAR =====
