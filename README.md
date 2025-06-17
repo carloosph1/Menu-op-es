@@ -1,2 +1,2 @@
-# Menu-op-es
+# Menu-op
 Menu de opções em C
